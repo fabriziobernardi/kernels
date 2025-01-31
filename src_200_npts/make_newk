@@ -1,0 +1,5 @@
+f77 -g -o newk_depp.10 newk.depp.10.f
+f77 -g -o newk_depp_sour.10 newk.depp_sour.10.f
+
+f77 -g -o newk_depp.33 newk.depp.33.f
+f77 -g -o newk_depp_sour.33 newk.depp_sour.33.f
